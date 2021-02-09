@@ -2,4 +2,4 @@
 
 a repository for solved problems.
 
-[[Japanese](https://github.com/prbslver/codingTest/edit/main/README.jp.md)]
+[Japanese](https://github.com/prbslver/codingTest/blob/main/README.jp.md)
